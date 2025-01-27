@@ -8,17 +8,17 @@ This GitHub profile is my digital portfolio showcasing the projects I’ve worke
 ## 🚀 About Me
 * Degree: Software Engineering, Mediterranean Institute of Technology.
 - Passion: Turning raw data into actionable insights.
-. Strengths: Fast learner, highly adaptive, and detail-oriented.
-Career Goal: To use data science to solve real-world problems and make a measurable impact, especially in fields like aviation, healthcare, and education.
+* Strengths: Fast learner, highly adaptive, and detail-oriented.
+* Career Goal: To use data science to solve real-world problems and make a measurable impact, especially in fields like aviation, healthcare, and education.
 ## 🛠 Tech Stack
-Programming: Python (NumPy, pandas, scikit-learn, TensorFlow), SQL.
-Data Visualization: Tableau, Power BI, Matplotlib, Seaborn.
-Machine Learning: Supervised/Unsupervised Learning, NLP, Recommendation Systems.
-Cloud Tools: AWS (S3, Lambda), Google Cloud Platform.
-Tools: Git, Docker, Jupyter Notebooks, ETL Pipelines.
-Soft Skills: Problem-solving, collaboration, communication, and adaptability.
+* Programming: Python (NumPy, pandas, scikit-learn, TensorFlow), SQL.
+* Data Visualization: Tableau, Power BI, Matplotlib, Seaborn.
+* Machine Learning: Supervised/Unsupervised Learning, NLP, Recommendation Systems.
+* Cloud Tools: AWS (S3, Lambda), Google Cloud Platform.
+* Tools: Git, Docker, Jupyter Notebooks, ETL Pipelines.
+* Soft Skills: Problem-solving, collaboration, communication, and adaptability.
 ## 📂 Highlighted Projects
-1. Hybrid Recruitment Chatbot
+* 1. Hybrid Recruitment Chatbot
 Built an NLP-powered chatbot in just 6 months with no prior experience in chatbots or large language models.
 Achieved a 25% improvement in CV parsing accuracy and a 30% boost in job-candidate matching precision.
 2. Sentiment Analysis for Multilingual Reviews
