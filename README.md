@@ -6,9 +6,9 @@ Hello there! I’m Lina Barkaoui, a passionate and results-driven Data Scientist
 This GitHub profile is my digital portfolio showcasing the projects I’ve worked on, ranging from natural language processing to data visualization and predictive modeling. Here, you’ll find a blend of professional and personal projects demonstrating my technical expertise and problem-solving skills.
 
 ## 🚀 About Me
-Degree: Software Engineering, Mediterranean Institute of Technology.
-Passion: Turning raw data into actionable insights.
-Strengths: Fast learner, highly adaptive, and detail-oriented.
+* Degree: Software Engineering, Mediterranean Institute of Technology.
+- Passion: Turning raw data into actionable insights.
+. Strengths: Fast learner, highly adaptive, and detail-oriented.
 Career Goal: To use data science to solve real-world problems and make a measurable impact, especially in fields like aviation, healthcare, and education.
 ## 🛠 Tech Stack
 Programming: Python (NumPy, pandas, scikit-learn, TensorFlow), SQL.
