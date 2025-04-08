@@ -59,10 +59,11 @@ This GitHub profile is my digital portfolio showcasing the projects I’ve worke
 
 ## 📈 Fun Facts About Me
 
-- I love solving complex problems and contributing to impactful projects.  
-- I thrive in diverse, multicultural teams and enjoy collaborative work environments.  
-- My motto: *"Where there's a will, there's a way!"*
+- I enjoy translating real-world problems into data-driven solutions, whether it's optimizing delivery routes or decoding Morse code.
 
+- I'm a fast learner. During my internship, I explored the world of chatbots and large language models for the first time and mastered them in under six months.
+
+- I find deep satisfaction in turning unfamiliar technologies into working prototypes through hands-on experimentation and research.
 ---
 
 [Download my CV](https://github.com/user-attachments/files/18559694/CV.Lina_Barkaoui.pdf)
