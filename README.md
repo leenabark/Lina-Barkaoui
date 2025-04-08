@@ -19,9 +19,9 @@ This GitHub profile is my digital portfolio showcasing the projects I’ve worke
 
 ## 🛠 Tech Stack
 - **Programming**: Python (NumPy, pandas, scikit-learn, TensorFlow), SQL  
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
+- **Data Visualization**: Tableau, Matplotlib, Seaborn  
 - **Machine Learning**: Supervised/Unsupervised Learning, NLP, Recommendation Systems  
-- **Cloud Tools**: AWS (S3, Lambda), Google Cloud Platform  
+- **Cloud Tools**: AWS (S3, Lambda) 
 - **Tools**: Git, Docker, Jupyter Notebooks, ETL Pipelines  
 - **Soft Skills**: Problem-solving, collaboration, communication, and adaptability
 
